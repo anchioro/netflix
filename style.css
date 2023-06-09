@@ -45,6 +45,7 @@ body {
   color: white;
   margin-inline: 25px;
   padding-inline: 18px;
+  cursor: pointer;
 }
 
 .main {
@@ -100,6 +101,7 @@ body {
   border-width: 1px;
   border-color: grey;
   border-radius: 4px;
+  color: white;
 }
 
 .form-cta button {
